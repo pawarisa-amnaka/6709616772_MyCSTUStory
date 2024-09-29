@@ -111,6 +111,31 @@ h1 {
   margin: 0;
   line-height: 2;
 }
+#worker h3{
+  color: #0073e6;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border : solid rgb(0, 0, 0);
+  background-color:#ffffff;
+  padding: 3px;
+}
+#lover h3{
+  color: #0073e6;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border : solid rgb(0, 0, 0);
+  background-color:#ffffff;
+  padding: 3px;
+}
+#health h3{
+  color: #0073e6;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border : solid rgb(0, 0, 0);
+  background-color:#ffffff;
+  padding: 3px;
+}
+
 
 
 
